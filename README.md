@@ -24,3 +24,6 @@ Pseudocode for (b):
 4.	Then they will compare their numbers with the first element of the filled array (in the second iteration of the loop, they will compare with second elements, in the third iteration compare with third element of the array, and so forth)
 5.	Score of the winning threads will be increased 
 6.	Game will end after 5 guesses.
+
+![image](https://user-images.githubusercontent.com/45897290/145690310-6bd58154-a939-40d8-9730-0fb7d692fece.png)
+![image](https://user-images.githubusercontent.com/45897290/145690338-d29c52a7-a5cb-4b8e-bcb0-3d577e24c35a.png)
